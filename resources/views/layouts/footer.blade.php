@@ -13,7 +13,7 @@
                 </div>
                 
                 <div class="flex flex-col mt-8 md:mt-0 md:text-right ">
-                    <span>© valler 2020</span>
+                    <span>© valley 2020</span>
                     <span class="mt-2">De Perú ❤ para el mundo</span>
                 </div>
             </div>
