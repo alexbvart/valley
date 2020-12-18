@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="card-header">{{ __('Register') }}</div>
+{{--     <div class="card-header">{{ __('Register') }}</div> --}}
 
     <div class="grid min-h-screen place-items-center">
         <div class="w-11/12 p-12 bg-white sm:w-8/12 md:w-1/2 lg:w-5/12">
